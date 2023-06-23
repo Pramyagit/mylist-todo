@@ -1,0 +1,38 @@
+main{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+        /* width:80%; */
+        /* margin-left:80px; */
+        height:100%;
+        margin:20px;
+    
+}
+.h1{
+    color:rgb(41, 143, 210);
+}
+ul{
+    text-decoration: none;
+    width:500px;
+    height:300px;
+    list-style: none;
+    padding:10px;
+    margin:5px;
+    background-color: rgb(65, 179, 245);
+    font-size:25px;
+    font-weight:bold;
+    color:#fff;
+}
+li{
+margin:20px;
+list-style:1;
+}
+input[type=Checkbox]{
+    width:30px;
+    height:30px;
+    background-color: #ffff;
+}
+.fa:hover{
+    color: red;
+}
