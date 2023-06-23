@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import './content.css'
 import Itemss from './Itemss';
 // const [name,setName]=useState("subscriber");
